@@ -97,12 +97,14 @@ int task1 () {
         valCtr++;
 
     }
+    ///THE_GAME
 
-    for (auto &byte : bytes) cout << byte;
-    cout << endl;
     int answer;
     return answer;
 }
+
+
+
 
 int main() {
     cout << task1() << endl;
